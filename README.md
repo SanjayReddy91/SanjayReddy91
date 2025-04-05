@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning MERN Stack<br>I work on java full stack development
+I'm currently learning MERN Stack<br>I work on java full stack development<br>Creating a course selling app project
 
 
 ## 🌐 Socials:
